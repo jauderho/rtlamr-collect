@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/influxdata/influxdb-client-go/v2 v2.12.3
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
 	go.etcd.io/bbolt v1.3.7
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
